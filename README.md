@@ -1,2 +1,0 @@
-# AnotherApp
-A new app
